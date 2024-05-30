@@ -2,7 +2,7 @@ Thesis Repository - Game Changer: Mobile Apps Leveling Up Field Experiments
 
 This repository contains the code and data associated with my thesis titled "Game Changer: Mobile Apps Leveling Up Field Experiments".
 
-Lucie Schulz
+Student: Lucie Schulz
 Advisor: Andrew Hobbs
 
 Department of Economics University of San Francisco 
